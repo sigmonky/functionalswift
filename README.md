@@ -8,7 +8,7 @@ Repository contents
 
 Below is a link to a very scruffy prototype app for exploring different scale tunings that uses the AudioKit sound SDK, which makes good use of functional programming principles:
 
-[https://github.com/sigmonky/altertune](http://)
+[altertune scale exploratorium](https://github.com/sigmonky/altertune)
 
 Pull requests welcomed!
 
